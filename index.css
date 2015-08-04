@@ -1,0 +1,41 @@
+
+	nav ul li {display:inline-block;
+	}
+	nav{
+		border-width: 100%;
+		background-color: black
+	}
+		body {
+			text-align: center;
+			background: url(http://marshall.org/wp-content/themes/marshall/img/featured-space-policy.jpg) no-repeat center fixed;
+			background-size: cover;
+			background-position: center;
+			top: 0;
+			left: 0;
+			min-width: 100%;
+			min-height: 100%;
+			color: white;
+			font: verdana;
+			}
+		p {
+      		font-size: 22px;
+      		text-align: center;
+
+    		}
+    	input {
+      		border: 0;
+      		padding: 10px;
+      		font-size: 18px;
+    		}
+    	input[type="submit"] {
+      		background: red;
+      		color: white;
+      		}
+      	h3 {
+      		font-size: 18px;
+      	}
+      	a:link{
+      		color: yellow;
+      		list-style-type: none;
+      	}
+  
